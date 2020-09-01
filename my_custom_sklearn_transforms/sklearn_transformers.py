@@ -1,4 +1,5 @@
 from sklearn.base import BaseEstimator, TransformerMixin
+import imblearn
 from imblearn.over_sampling import SMOTE
 from imblearn.under_sampling import RandomUnderSampler
 from imblearn.pipeline import Pipeline
