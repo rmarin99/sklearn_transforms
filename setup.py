@@ -17,5 +17,5 @@ setup(
       ],
       zip_safe=False,
       install_requires =[
-            'my_dependency==1.1.0'
+            'my_dependency==1.1.0']
 )
